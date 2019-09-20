@@ -47,9 +47,6 @@ def norm_data(args):
 	if args.dataset.startswith('biaobei'):
 		return [os.path.join(args.base_dir, "LJSpeech")]
 
-	if args.dataset.startswith('chanxian'):
-		return [os.path.join(args.base_dir, args.dataset)]
-
 
 	if args.dataset == 'M-AILABS':
 		supported_languages = ['en_US', 'en_UK', 'fr_FR', 'it_IT', 'de_DE', 'es_ES', 'ru_RU',
