@@ -66,6 +66,8 @@ CUDA_VISIBLE_DEVICES=* python synthesize.py --name **** --text_list ****
 | [biaobei-pretrain](https://pan.baidu.com/s/1lR2V244ttNn9jUVPckteAQ) |   中文   |  否  | 22050  | 50k/60k/70k/80k/90k/100k |
 | [p227-finetuning](https://pan.baidu.com/s/1LuStKn9OhXtj32LRvRDG5w) |   英文   |  是  | 22050  | 60k/62k/64k/66k/68k/70k  |
 |  [p227_50](https://pan.baidu.com/s/1rDCsweKDcS-_VuPg4BoLhw)  |   英文   |  是  | 22050  |   58k/60k/64k/68k/70k    |
+|  [p227_20](https://pan.baidu.com/s/1n0MUt3T1uyM_mIliLAVC4w)  |   英文   |  是  | 22050  |       54k/55k/56k        |
+|  [p227_10](https://pan.baidu.com/s/1vG7agF3iTby8HbHDwzeM-A)  |   英文   |  是  | 22050  |     54k/55k/56k/60k      |
 | [p225-finetuning](https://pan.baidu.com/s/1BoLYLiU8RBD9-ItSDNsVtg) |   英文   |  是  | 22050  | 56k/58k/60k/62k/64k/66k  |
 
 
